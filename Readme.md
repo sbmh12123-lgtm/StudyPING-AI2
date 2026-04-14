@@ -1,0 +1,2 @@
+# StudyPing AI
+Initial setup
